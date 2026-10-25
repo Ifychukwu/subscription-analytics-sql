@@ -1,5 +1,4 @@
-# SQL Analytics Case Study: 15 leadership questions answered in SQL, finding the channel that returns 11.7× its acquisition cost
-
+# SQL Analytics Case Study: 
 **[Walkthrough notebook](notebooks/walkthrough.ipynb)** · **[Power BI export](powerbi/README.md)** · **[Methods](docs/methods.md)** · **[System card](docs/system_card.md)** · **[Data](data/README.md)**
 
 ## Executive summary
