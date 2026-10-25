@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+
+.pytest_cache/
+.DS_Store
+# SQLite warehouse (~19 MB): regenerate with `PYTHONPATH=src python -m harvest.build_db`
+data/*.db

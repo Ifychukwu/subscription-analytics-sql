@@ -1,0 +1,7 @@
+check_name,failing_rows
+duplicate order rows,15
+orders with missing revenue,8
+orders for unknown customers,5
+order items for unknown recipes,0
+deliveries before signup,0
+cancellations before signup,0

@@ -1,0 +1,97 @@
+region,month,avg_weekly_boxes,seasonal_index
+London,1,31.7,1.083
+London,2,30.1,1.029
+London,3,28.8,0.984
+London,4,29.7,1.014
+London,5,30.9,1.055
+London,6,29.5,1.009
+London,7,25.0,0.853
+London,8,23.3,0.796
+London,9,28.6,0.978
+London,10,29.3,1.0
+London,11,32.2,1.102
+London,12,32.1,1.097
+Midlands,1,18.8,0.893
+Midlands,2,21.4,1.017
+Midlands,3,22.1,1.049
+Midlands,4,22.2,1.054
+Midlands,5,21.4,1.019
+Midlands,6,21.2,1.01
+Midlands,7,17.4,0.825
+Midlands,8,17.7,0.841
+Midlands,9,21.6,1.029
+Midlands,10,21.7,1.033
+Midlands,11,23.3,1.108
+Midlands,12,23.6,1.122
+North West,1,19.5,0.973
+North West,2,19.8,0.983
+North West,3,18.5,0.923
+North West,4,18.5,0.921
+North West,5,20.7,1.033
+North West,6,21.2,1.054
+North West,7,18.3,0.91
+North West,8,17.7,0.88
+North West,9,21.1,1.052
+North West,10,21.5,1.068
+North West,11,21.9,1.092
+North West,12,22.3,1.111
+Scotland,1,12.8,0.892
+Scotland,2,13.4,0.938
+Scotland,3,13.9,0.969
+Scotland,4,14.5,1.013
+Scotland,5,14.6,1.021
+Scotland,6,13.7,0.955
+Scotland,7,13.3,0.928
+Scotland,8,13.7,0.955
+Scotland,9,14.5,1.013
+Scotland,10,15.1,1.057
+Scotland,11,16.2,1.132
+Scotland,12,16.1,1.127
+South East,1,25.6,1.002
+South East,2,25.0,0.976
+South East,3,26.2,1.023
+South East,4,24.6,0.961
+South East,5,24.1,0.942
+South East,6,24.1,0.941
+South East,7,21.6,0.844
+South East,8,23.9,0.935
+South East,9,28.4,1.108
+South East,10,26.6,1.038
+South East,11,28.6,1.118
+South East,12,28.5,1.112
+South West,1,14.2,0.837
+South West,2,15.9,0.936
+South West,3,16.4,0.965
+South West,4,17.6,1.037
+South West,5,17.3,1.02
+South West,6,17.0,1.005
+South West,7,13.5,0.798
+South West,8,14.6,0.864
+South West,9,17.2,1.017
+South West,10,18.0,1.064
+South West,11,20.2,1.19
+South West,12,21.5,1.268
+Wales,1,9.1,0.852
+Wales,2,9.8,0.91
+Wales,3,9.9,0.921
+Wales,4,10.5,0.98
+Wales,5,10.5,0.985
+Wales,6,10.0,0.937
+Wales,7,10.2,0.948
+Wales,8,8.7,0.816
+Wales,9,12.0,1.123
+Wales,10,11.9,1.108
+Wales,11,13.4,1.254
+Wales,12,12.5,1.165
+Yorkshire,1,15.9,1.051
+Yorkshire,2,16.5,1.09
+Yorkshire,3,15.6,1.034
+Yorkshire,4,15.7,1.04
+Yorkshire,5,15.5,1.025
+Yorkshire,6,15.5,1.026
+Yorkshire,7,12.5,0.825
+Yorkshire,8,12.8,0.848
+Yorkshire,9,14.0,0.925
+Yorkshire,10,14.5,0.961
+Yorkshire,11,16.0,1.059
+Yorkshire,12,16.9,1.115

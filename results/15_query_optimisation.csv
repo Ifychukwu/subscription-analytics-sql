@@ -1,0 +1,3 @@
+version,query_plan,avg_ms
+without index,SCAN fact_orders | USE TEMP B-TREE FOR GROUP BY,5.5
+with index,SEARCH fact_orders USING COVERING INDEX idx_orders_customer_date (customer_id>? AND customer_id<?),0.65

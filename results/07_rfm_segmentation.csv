@@ -1,0 +1,7 @@
+segment,customers,pct_customers,revenue_gbp,pct_revenue,avg_days_since_last_box,avg_boxes
+Champions,2117,18.2,2506174.0,38.7,69.0,21.7
+Loyal,2336,20.1,1624948.0,25.1,217.0,12.9
+At risk,1374,11.8,1144557.0,17.7,487.0,15.7
+Lost high-value,1146,9.9,716378.0,11.1,709.0,11.7
+Low engagement,3022,26.0,308028.0,4.8,533.0,2.2
+New / promising,1628,14.0,175509.0,2.7,81.0,2.3

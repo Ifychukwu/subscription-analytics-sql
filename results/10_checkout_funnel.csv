@@ -1,0 +1,4 @@
+device,sessions,landing_to_menu_pct,menu_to_plan_pct,plan_to_checkout_pct,checkout_to_purchase_pct,overall_conversion_pct
+mobile,16106,61.9,54.6,48.1,56.4,9.17
+desktop,8099,69.7,62.0,56.1,63.2,15.31
+tablet,1795,67.6,58.6,49.9,54.6,10.81
